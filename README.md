@@ -13,16 +13,4 @@ Striving for continuous improvement of professional knowledge in the field of so
 - 🌱 [Postman](https://github.com/AG-Sokolova/testingCourse/tree/mobil-testing) 
 - 🌱 [Python](https://github.com/AG-Sokolova/pythonCourse)
 ---
-<div id="header" align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript " alt="JavaScript " width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML " alt="HTML " width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS " alt="CSS " width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git " alt="git " width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="" alt="gitlab" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="" alt="pycharm" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="" alt="selenium" width="30" height="30"/>&nbsp;
-</div>
-
----
 [![codewars](https://www.codewars.com/users/AG-Sokolova/badges/large)](https://www.codewars.com/users/AG-Sokolova)   
