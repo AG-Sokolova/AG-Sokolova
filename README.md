@@ -7,13 +7,13 @@ Striving for continuous improvement of professional knowledge in the field of so
 ---
 <div id="header" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript " alt="JavaScript " width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML " alt="HTML " width="20" height="20"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS " alt="CSS " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git " alt="git " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="" alt="gitlab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="" alt="pycharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="" alt="selenium" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript " alt="JavaScript " width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML " alt="HTML " width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS " alt="CSS " width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git " alt="git " width="35" height="35"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" title="" alt="gitlab" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-plain.svg" title="" alt="pycharm" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="" alt="selenium" width="20" height="20"/>&nbsp;
 </div>
 
 - 🌱 [SQL](https://github.com/AG-Sokolova/testingCourse/tree/sql)
