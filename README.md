@@ -5,6 +5,14 @@ Striving for continuous improvement of professional knowledge in the field of so
 <a href="https://www.linkedin.com/agvaska"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/Sokolova_AG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 ---
+- 🌱 [SQL](https://github.com/AG-Sokolova/testingCourse/tree/sql)
+- 🌱 [Git](https://github.com/AG-Sokolova/testingCourse/tree/git)
+- 🌱 [Charles Proxy](https://github.com/AG-Sokolova/testingCourse/tree/charles_fiddler)    
+- 🌱 [Jmeter](https://github.com/AG-Sokolova/testingCourse/tree/jmeter)  
+- 🌱 [Mobile testing](https://github.com/AG-Sokolova/testingCourse/tree/jmeter)  
+- 🌱 [Postman](https://github.com/AG-Sokolova/testingCourse/tree/mobil-testing) 
+- 🌱 [Python](https://github.com/AG-Sokolova/pythonCourse)
+---
 <div id="header" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript " alt="JavaScript " width="30" height="30"/>&nbsp;
@@ -16,12 +24,5 @@ Striving for continuous improvement of professional knowledge in the field of so
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="" alt="selenium" width="30" height="30"/>&nbsp;
 </div>
 
-- 🌱 [SQL](https://github.com/AG-Sokolova/testingCourse/tree/sql)
-- 🌱 [Git](https://github.com/AG-Sokolova/testingCourse/tree/git)
-- 🌱 [Charles Proxy](https://github.com/AG-Sokolova/testingCourse/tree/charles_fiddler)    
-- 🌱 [Jmeter](https://github.com/AG-Sokolova/testingCourse/tree/jmeter)  
-- 🌱 [Mobile testing](https://github.com/AG-Sokolova/testingCourse/tree/jmeter)  
-- 🌱 [Postman](https://github.com/AG-Sokolova/testingCourse/tree/mobil-testing) 
-- 🌱 [Python](https://github.com/AG-Sokolova/pythonCourse)
 ---
 [![codewars](https://www.codewars.com/users/AG-Sokolova/badges/large)](https://www.codewars.com/users/AG-Sokolova)   
