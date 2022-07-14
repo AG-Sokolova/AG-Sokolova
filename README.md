@@ -7,8 +7,8 @@ Striving for continuous improvement of professional knowledge in the field of so
 - 🌱 [Git](https://github.com/AG-Sokolova/testingCourse/tree/git)
 - 🌱 [Charles Proxy](https://github.com/AG-Sokolova/testingCourse/tree/proxy)    
 - 🌱 [Jmeter](https://github.com/AG-Sokolova/testingCourse/tree/jmeter)  
-- 🌱 [Mobile testing](https://github.com/AG-Sokolova/testingCourse/tree/mobil-testing)  
-- 🌱 [Form testing](https://github.com/AG-Sokolova/testingCourse/tree/form-testing)
+- 🌱 [Mobile testing](https://github.com/AG-Sokolova/testingCourse/tree/mobil-testing)  (in progress)
+- 🌱 [Form testing](https://github.com/AG-Sokolova/testingCourse/tree/form-testing) (in progress)
 - 🌱 [Postman](https://github.com/AG-Sokolova/testingCourse/tree/postman) 
 - 🌱 [Python](https://github.com/AG-Sokolova/pythonCourse)
 ---
