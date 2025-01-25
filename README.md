@@ -1,4 +1,4 @@
-# Hi there, I'm [Anastasia]([резюме_2.pdf](https://github.com/AG-Sokolova/AG-Sokolova/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_2.pdf) 👋 
+# Hi there, I'm [Anastasia](https://github.com/AG-Sokolova/AG-Sokolova/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_2.pdf) 👋 
 
 <a href="https://twitter.com/sile_hill"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://www.linkedin.com/agvaska"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/Sokolova_AG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
